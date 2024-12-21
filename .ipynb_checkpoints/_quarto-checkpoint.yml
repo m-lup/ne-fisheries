@@ -11,7 +11,7 @@ website:
     right: "This page is built with 🐟 and [Quarto](https://quarto.org/)."
 
   sidebar:
-    logo: "images/course-icon.png"
+    logo: "images/maine_workingwaterfront.jpg"
     description: "final project by Clarasophia Z. Gust & Mariya Lupandina, UPenn students in MUSA620."
     pinned: true
     align: center
