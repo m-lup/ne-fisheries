@@ -12,8 +12,10 @@ website:
 
   sidebar:
     logo: "images/course-icon.png"
+    description: "final project by Clarasophia Z. Gust & Mariya Lupandina, UPenn students in MUSA620."
     pinned: true
     align: center
+
     tools:
       - icon: globe
         href: https://www.design.upenn.edu/people/eric-delmelle
@@ -30,14 +32,12 @@ website:
     contents:
       - href: index.qmd
         text: Introduction
-      - about.qmd
+      - MSABackground.qmd
       - section: analysis/index.qmd
         contents:
-          - analysis/1-python-code-blocks.qmd 
-          - analysis/2-static-images.ipynb
-          - analysis/3-altair-hvplot.ipynb
-          - analysis/4-folium.ipynb
-
+          - analysis/1-FishstockLivelihood.ipynb
+          - analysis/2-MajorFisheriesNE.ipynb
+      - Conclusion.qmd
 format:
   html:
     highlight-style: solarized

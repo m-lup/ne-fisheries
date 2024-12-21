@@ -1,0 +1,19 @@
+---
+title: "MSA Background"
+toc: false
+---
+
+
+<img src="<url>" alt="<alt text>" style="width: 170px; border-radius: 10px;">
+</p>
+
+<p>The Magnuson-Stevens Fishery Conservation and Management Act (MSA) is the primary law responsible for commercial fishery management in the United States. First passed in 1976, the MSA aims to: </p>
+   1. prevent overfishing, 
+   2. rebuild overfished stocks, 
+   3. ensure a safe and sustainable seafood supply, 
+   4. increase long-term economic and social benefit, and 
+   5. <span style="color:dark grey">protect fish habitats needed for spawning, breeding, feeding, and growing to maturity.</span>
+
+<p>The federal government reauthorized and strengthened the MSA in 2007. In 2018, the MSA was further amended by the Modernizing Recreational Fisheries Management Act to improve the accountability of mixed-use fisheries (companies that have commercial and recreational operations). We are keen to understand what impacts the 2007 and 2018 amendments to the MSA have had on coastal communities in the Northeast. </p>
+
+</div>
