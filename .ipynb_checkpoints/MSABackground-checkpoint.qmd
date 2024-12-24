@@ -4,7 +4,7 @@ toc: false
 ---
 
 
-<img src="<url>" alt="<alt text>" style="width: 170px; border-radius: 10px;">
+<img src="images/MSAinfographic.png" style="width: 170px; border-radius: 10px;">
 </p>
 
 <p>The Magnuson-Stevens Fishery Conservation and Management Act (MSA) is the primary law responsible for commercial fishery management in the United States. First passed in 1976, the MSA aims to: </p>
