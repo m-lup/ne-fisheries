@@ -41,7 +41,7 @@ website:
 format:
   html:
     highlight-style: solarized
-    theme: cosmo
+    theme: flatly
     css: styles.css
     code-copy: true
     code-overflow: wrap

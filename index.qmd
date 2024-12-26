@@ -3,6 +3,9 @@ title: "Atlantic Coast Working Waterfronts from Delaware to Maine"
 subtitle: "Tracking impacts of recent amendments to the Magnuson-Stevens Fishery Conservation and Managaement Act (MSA) on fish stock and regional livelihoods"
 ---
 
+<img src="images/codmakesacomeback.jpg" alt="Cod makes a comeback" style="width: 100%">
+
+
 ## Introduction
 
 Commercial fishing is a key industry in the Northeast. Historically, fisheries were the primary employer in many towns, and cities grew up around the industry. Throughout the 20th and 21st centuries, commercial fishing had periods of boom and bust leading to declining towns and depopulation along the coast. Despite these fluctuations, commercial fishing is still important to the region both economically and culturally. The industry also has significant environmental externalities, including pollution, trophic system collapse and ocean warming. Managing fishery operations is essential to ensure long term resource availability but can have negative impacts in the short term on the economic viability of businesses. This is a question of balancing economy and livelihoods with sustainability. 
@@ -20,5 +23,13 @@ To identify trends we will need to look at data for a period that begins before 
 
 
 SHOULD WE LINK TO EMLAB WORK? OR NO BC WE DIDN'T ASK FOR PERMISSION FROM SEAN AND KEITH?
+
+<span style="color:gray; font-style:italic;">
+  Image Sources:
+   <ol>
+    <li>Sidebar image: Maine Working Waterfront. Maine Coast Fishermen's Association, 2023. <a href="https://www.mainecoastfishermen.org/working-waterfront" target="_blank">https://www.mainecoastfishermen.org/working-waterfront</a></li>
+    <li>Title image: Cod Makes a Comeback. Hakai Magazine, 2015. Photo by Jeffret L. Rotman/Corbis. <a href="https://hakaimagazine.com/news/cod-makes-comeback-canada/" target="_blank">https://hakaimagazine.com/news/cod-makes-comeback-canada/</a></li>
+  </ol>
+</span>
 
 
