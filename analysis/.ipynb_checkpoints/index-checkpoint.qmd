@@ -1,8 +1,28 @@
 # Analysis 
+<img src="images/workingwaterfront_NewBedford-CT.jpg" alt="working waterfront - New Bedford, CT" style="width: 100%;">
+</p>
 
-Analysis Timeframe
-To reiterate, we are looking at identify trends we will need to look at data for a period that begins before the amendments came into effect and ends with the most recent data available. However, we are constrained by the data available through NOAA's StockSMART database - the most publically-accessible comprehensive repository on fisheries resource management. As such, we are looking at the time period between 2005 and 2022. 
+### Analysis Timeframe
+<p>To reiterate, we are hoping to identify trends in fish stock and fisheries livelihoods before and after the two recent amendments to the MSA, in 2007 and 2018. The data we selected begins before the amendments came into effect and ends with the most recent data available. However, we are constrained by the data available through [NOAA's Economics: National Ocean Watch](https://coast.noaa.gov/digitalcoast/data/enow.html) and [NOAA's StockSMART databases](https://apps-st.fisheries.noaa.gov/stocksmart?app=homepage). These two datasets are the most comprehensive publically-accessible repositories on the US ocean economy and fisheries resource management. The most recent data available is from 2021 and 2022, respectively. As such, we are generally looking at the time period between 2005 and 2022, with analysis related to the ocean economy stopping at 2021. </p>
 
-Analysis Plan
 
-Datasets Used
+### Analysis Plan
+<p>PLEASE FILL IN.</p>
+
+### Datasets Used
+
+1. Bureau of Economic Analysis (BEA) GDP data for state and county. [https://www.bea.gov/data/gdp](https://www.bea.gov/data/gdp).
+
+2. Bureau of Labour Statistics (BLS) employment data for NAICS 1141 - Fishing by state and county, 2005 to 2022. [https://www.bls.gov/cew/downloadable-data-files.htm](https://www.bls.gov/cew/downloadable-data-files.htm).
+
+3. NOAA Economics: National Ocean Watch ocean economy employment and GDP by state and county from 2005 to 2021. [https://coast.noaa.gov/digitalcoast/data/enow.html](https://coast.noaa.gov/digitalcoast/data/enow.html).
+
+4. NOAA Fisheries vessel landings, landings by top US ports and vessel density by state from 2005 to 2022. [https://www.fisheries.noaa.gov/foss/f?p=215:11:8262191115478](https://www.fisheries.noaa.gov/foss/f?p=215:11:8262191115478).
+
+5. NOAA StockSMART Fish Counts from 2005 to 2022. [https://apps-st.fisheries.noaa.gov/stocksmart?app=homepage](https://apps-st.fisheries.noaa.gov/stocksmart?app=homepage).
+
+6. Office of Coastal Management Vessel Transit Counts for 2022. 100 x 100 m raster. [https://www.fisheries.noaa.gov/inport/item/67463](https://www.fisheries.noaa.gov/inport/item/67463#:~:text=Summary,-Short%20Citation&text=Office%20for%20Coastal%20Management%2C%202024,/inport/item/67463.&text=Automatic%20Identification%20Systems%20(AIS)%20are,a%20100%20m%20grid%20cell.).
+
+7. US Census Bureau 1-year population estimates 2005-2008 and 5-year population estimates 2009-2022. [https://data.census.gov/table](https://data.census.gov/table). Retrieved using Census API.
+
+8. US Census Bureau TIGER/Line boundaries for coastal counties and state boundaries from Delaware to Maine. [https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html).
