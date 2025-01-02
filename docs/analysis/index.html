@@ -94,7 +94,11 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
+<<<<<<< Updated upstream
       <img src="../images/workingwaterfront_Maine.jpg" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+=======
+      <img src="../images/maine_workingwaterfront.jpg" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+>>>>>>> Stashed changes
       </a>
       <div class="sidebar-tools-main">
     <a href="https://www.fisheries.noaa.gov/topic/laws-policies/magnuson-stevens-act" title="NOAA Fishiries website" class="quarto-navigation-tool px-1" aria-label="NOAA Fishiries website"><i class="bi bi-globe"></i></a>
@@ -176,7 +180,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="analysis" class="level1">
 <h1>Analysis</h1>
-<img src="images/workingwaterfront_NewBedford-CT.jpg" alt="working waterfront - New Bedford, CT" style="width: 100%;">
+<hr>
+<img src="images/workingwaterfront_NewBedford-CT.jpg" alt="working waterfront - New Bedford, CT" style="width: 100%">
 <p></p>
 <section id="analysis-timeframe" class="level3">
 <h3 class="anchored" data-anchor-id="analysis-timeframe">Analysis Timeframe</h3>
@@ -187,9 +192,17 @@ To reiterate, we are hoping to identify trends in fish stock and fisheries livel
 <section id="analysis-plan" class="level3">
 <h3 class="anchored" data-anchor-id="analysis-plan">Analysis Plan</h3>
 <p>
-PLEASE FILL IN.
-</p>
-</section>
+</p><p>In the first part of our analysis, we looked at the impacts of the two recent MSA amendments in 2007 and 2018. To do this, we found data for fish stock assessments, fish haul, GDP, and fisheries employment. We began at the scale of the full region from Delaware to Maine to see whether any correlations arose at the regional level following either of the policy amendments. The fish stock assessment data was downloaded from NOAA StockSMART. Data was downloaded for the two marine ecosystems relevant to the north Atlantic: Atlantic Highly Migratory and Northeast Shelf Species. Given the inconsistent nature of these assessment records, each asssessment used a different unit to calculate biomass. Therefore, we chose to use B/Bmsy which is a ratio of the current estimated biomass during each assessment verses the established sustainable biomass threshold for the given species. Next, we looked at the state-by-state scale to further understand any patterns correlated to the 2007 and 2018 policy amendments. To analyze the state-scale data, we compared the medians for 2005-2007, 2008-2018, and 2019-2022 for fish haul by state, GDP per capita, and employment in fisheries. These datasets were then mapped using AltAir hconcat().</p>
+The second part of our analysis asked where the current most important areas are for the fishing industry along the north Atlantic US coast. We were interested to look at this question across a range of parameters to see how the answer may shift based upon the data input. Because we were interested in understanding the current condition, we used data from 2022. The data was then mapped on one figure using Alt.Layer and the toggle function to view the differences between each dataset as an indicator of regions of fishing importance. The four datasets used were:
+<p></p>
+<pre><code>1. County-scale GDP per capita from fisheries as a percent of the total county-scale GDP per capita (BEA, US Census)
+2. County-scale employment in fisheries as a percent of total employment (BEA, NOAA)
+3. Number of registered fishing vessels which hail from each port (NOAA Fisheries, US Census)
+4. Landings/fish haul in pounds per state (NOAA Fisheries)</code></pre>
+<p>
+Accessing Data with API requests: NOAA Fisheries provides national data on landings (otherwise undestood as fish haul) and registered fishing vessel activity. Landings/fish haul was used to understand potential impact from the MSA policy and to assess regions of importance in the north Atlantic United States. However, due to commercial confidentiality, the landings data is limited because it is only provided at a state scale. The fishing vessel data was used to assess important ports in the north Atlantic US by analyzing the number of vessels which hail from a given port in our region of interest. Data was accessed from NOAA Fisheries using an API request for each dataset, filtered by our states of interest and study timeframe. The landings/fish haul data was then grouped by year and state. The vessels data used the hail port name to spatially join with US Census Place names. We found the the vast majority for hail port locations matched exactly to a US Census Place given the majority of ports are named after the city they are located within. Once this was complete, the total number of vessels per port could be counted.
+</p><p>
+</p></section>
 <section id="datasets-used" class="level3">
 <h3 class="anchored" data-anchor-id="datasets-used">Datasets Used</h3>
 <ol type="1">
@@ -202,9 +215,15 @@ PLEASE FILL IN.
 <li><p>US Census Bureau 1-year population estimates 2005-2008 and 5-year population estimates 2009-2022. <a href="https://data.census.gov/table">https://data.census.gov/table</a>. Retrieved using Census API.</p></li>
 <li><p>US Census Bureau TIGER/Line boundaries for coastal counties and state boundaries from Delaware to Maine. <a href="https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html">https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html</a>.</p></li>
 </ol>
+<span style="color:gray; font-style:italic;"> Image Source:
+<ol>
+<li>
+Port of New Bedford, MA, 2016. <a href="Portofnewbedford.org">Portofnewbedford.org</a>
+</li></ol>
+<p></p>
 
 
-</section>
+</span></section>
 </section>
 
 </main> <!-- /main -->

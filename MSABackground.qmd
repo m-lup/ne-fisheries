@@ -16,6 +16,7 @@ toc: false
 
 <p>The federal government reauthorized and strengthened the MSA in 2007. The updated act included amendments to the [moratorium on the use of driftnets](https://www.federalregister.gov/documents/2011/01/12/2011-507/high-seas-driftnet-fishing-moratorium-protection-act-identification-and-certification-procedures-to), strenthening international fisheries management organizations and directed the US to address illegal fishing and bycatch of protected marine life.
 
+<<<<<<< Updated upstream
 In 2018, the MSA was further amended by the Modernizing Recreational Fisheries Management Act to improve the accountability of mixed-use fisheries (companies that have commercial and recreational operations). </p>
 
 <span style="color:gray; font-style:italic;">
@@ -26,3 +27,15 @@ In 2018, the MSA was further amended by the Modernizing Recreational Fisheries M
   </ol>
 </span>
 </p>
+
+<span style="color:gray; font-style:italic;">
+  Image Source:
+   <ol>
+    <li>Ocean Concervancy, 2016. MSA at 40: Fisheries in the Gulf. [https://oceanconservancy.org/blog/2016/03/29/msa-at-40-fisheries-in-the-gulf/](https://oceanconservancy.org/blog/2016/03/29/msa-at-40-fisheries-in-the-gulf)
+  </ol>
+</span>
+=======
+<p> Sources:
+1.
+</p>
+>>>>>>> Stashed changes
