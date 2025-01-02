@@ -3,7 +3,14 @@ title: "Atlantic Coast Working Waterfronts from Delaware to Maine"
 subtitle: "Tracking impacts of recent amendments to the Magnuson-Stevens Fishery Conservation and Managaement Act (MSA) on fish stock and regional livelihoods"
 ---
 
+<<<<<<< Updated upstream
+Mariya Lupandina and Clarasophia Gust
+MUSA 550 | Fall 2024
+
 <img src="images/codmakesacomeback_Maine.jpg" alt="Cod makes a comeback" style="width: 100%">
+=======
+<img src="images/codmakesacomeback.jpg" alt="Cod makes a comeback" style="width: 100%">
+>>>>>>> Stashed changes
 
 
 ## Introduction
@@ -20,6 +27,19 @@ With our analysis we hope to answer the following two questions: </p>
  2. Where are the most important fisheries along the north Atlantic Coast and what factors define the most important fishing ports?
 
 To identify trends we will need to look at data for a period that begins before the amendments came into effect and ends with the most recent data available. However, we are constrained by the data available through NOAA's Economics: National Ocean Watch and NOAA's StockSMART databases - the most comprehensive publically-accessible repositories on ocean economics and fisheries resource management. As such, we are looking at the time period between 2005 and 2022. 
+
+<<<<<<< Updated upstream
+<span style="color:gray; font-style:italic;">
+  Image Sources:
+   <ol>
+    <li>Sidebar image: Maine Working Waterfront. Maine Coast Fishermen's Association, 2023. <a href="https://www.mainecoastfishermen.org/working-waterfront" target="_blank">https://www.mainecoastfishermen.org/working-waterfront</a></li>
+    <li>Title image: Cod Makes a Comeback. Hakai Magazine, 2015. Photo by Jeffret L. Rotman/Corbis. <a href="https://hakaimagazine.com/news/cod-makes-comeback-canada/" target="_blank">https://hakaimagazine.com/news/cod-makes-comeback-canada/</a></li>
+  </ol>
+</span>
+=======
+
+SHOULD WE LINK TO EMLAB WORK? OR NO BC WE DIDN'T ASK FOR PERMISSION FROM SEAN AND KEITH?
+>>>>>>> Stashed changes
 
 <span style="color:gray; font-style:italic;">
   Image Sources:
