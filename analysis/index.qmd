@@ -1,5 +1,7 @@
 # Analysis 
-<img src="images/workingwaterfront_NewBedford-CT.jpg" alt="working waterfront - New Bedford, CT" style="width: 100%;">
+---
+
+<img src="images/workingwaterfront_NewBedford-CT.jpg" alt="working waterfront - New Bedford, CT" style="width: 100%">
 </p>
 
 ### Analysis Timeframe
@@ -34,3 +36,10 @@ The second part of our analysis asked where the current most important areas are
 7. US Census Bureau 1-year population estimates 2005-2008 and 5-year population estimates 2009-2022. [https://data.census.gov/table](https://data.census.gov/table). Retrieved using Census API.
 
 8. US Census Bureau TIGER/Line boundaries for coastal counties and state boundaries from Delaware to Maine. [https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html).
+
+<span style="color:gray; font-style:italic;">
+  Image Source:
+   <ol>
+    <li>Port of New Bedford, MA, 2016. [Portofnewbedford.org](Portofnewbedford.org)
+  </ol>
+</span>
