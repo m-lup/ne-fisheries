@@ -1,0 +1,519 @@
+geoid,geoName,year,sector,establishments,employment,wages,gdp
+09001,Fairfield County,2021,Marine Construction,16,79,5993905,9647894.637
+09001,Fairfield County,2021,Living Resources,36,272,13803568,27335653.429
+09001,Fairfield County,2021,Offshore Mineral Resources,18,77,6347340,37587557.813
+09001,Fairfield County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+09001,Fairfield County,2021,Tourism and Recreation,1340,15744.083,520987329,1148756856.011
+09001,Fairfield County,2021,Marine Transportation,43,1154,50066216,62235756.024
+09001,Fairfield County,2021,Ocean Economy,1459,17626,635733414,1368124000.161
+09007,Middlesex County,2021,Marine Construction,SUP,SUP,SUP,SUP
+09007,Middlesex County,2021,Living Resources,3,23,694743,1603220.185
+09007,Middlesex County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+09007,Middlesex County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+09007,Middlesex County,2021,Tourism and Recreation,201,2532.833,79834448,167586195.354
+09007,Middlesex County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+09007,Middlesex County,2021,Ocean Economy,218,3189.917,122301945,248800416.828
+09009,New Haven County,2021,Marine Construction,13,81,7489304,12054915.1
+09009,New Haven County,2021,Living Resources,14,69,2686913,6747141.73
+09009,New Haven County,2021,Offshore Mineral Resources,14,40,2766276,16381280.832
+09009,New Haven County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+09009,New Haven County,2021,Tourism and Recreation,852,10233.833,266298584,598452552.911
+09009,New Haven County,2021,Marine Transportation,54,8923,355288177,441647683.18
+09009,New Haven County,2021,Ocean Economy,950,20330.917,700987407,1225533452.217
+09011,New London County,2021,Marine Construction,11,108,8917581,14353894.815
+09011,New London County,2021,Living Resources,10,41,1384676,3195340.599
+09011,New London County,2021,Offshore Mineral Resources,8,65,4013029,23764279.138
+09011,New London County,2021,Ship and Boat Building,10,371,40626845,130865954.92
+09011,New London County,2021,Tourism and Recreation,479,6448,193348702,447552561.995
+09011,New London County,2021,Marine Transportation,16,6,242299,416639.843
+09011,New London County,2021,Ocean Economy,537,19996.417,1542697952,3632727629.828
+10001,Kent County,2021,Marine Construction,SUP,SUP,SUP,SUP
+10001,Kent County,2021,Living Resources,SUP,SUP,SUP,SUP
+10001,Kent County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+10001,Kent County,2021,Ship and Boat Building,0,0,0,0
+10001,Kent County,2021,Tourism and Recreation,243,3999.75,79964791,155588307.153
+10001,Kent County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+10001,Kent County,2021,Ocean Economy,262,5495.333,170629153,268325249.333
+10003,New Castle County,2021,Marine Transportation,88,6073,297049150,364923221.19
+10003,New Castle County,2021,Ocean Economy,697,14017.167,503759924,763847654.005
+10003,New Castle County,2021,Marine Construction,SUP,SUP,SUP,SUP
+10003,New Castle County,2021,Living Resources,SUP,SUP,SUP,SUP
+10003,New Castle County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+10003,New Castle County,2021,Ship and Boat Building,0,0,0,0
+10003,New Castle County,2021,Tourism and Recreation,579,6982.75,150340827,309532962.545
+10005,Sussex County,2021,Marine Construction,SUP,SUP,SUP,SUP
+10005,Sussex County,2021,Living Resources,18,5,370846,926948.383
+10005,Sussex County,2021,Offshore Mineral Resources,3,0,0,0
+10005,Sussex County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+10005,Sussex County,2021,Tourism and Recreation,691,11725.833,314012955,833116695.896
+10005,Sussex County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+10005,Sussex County,2021,Ocean Economy,746,12130,337069347,877490715.379
+23005,Cumberland County,2021,Marine Construction,14,127,8241342,11156369.003
+23005,Cumberland County,2021,Living Resources,155,796,38730465,112783909.59
+23005,Cumberland County,2021,Offshore Mineral Resources,4,6,253821,456762.518
+23005,Cumberland County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+23005,Cumberland County,2021,Tourism and Recreation,895,12313.417,393394791,829290422.824
+23005,Cumberland County,2021,Marine Transportation,29,1593,72012968,95678698.68
+23005,Cumberland County,2021,Ocean Economy,1104,15082.167,526243875,1065501260.883
+23009,Hancock County,2021,Marine Construction,7,23,1051501,1423425.112
+23009,Hancock County,2021,Living Resources,207,624,28372841,80491959.299
+23009,Hancock County,2021,Offshore Mineral Resources,0,0,0,0
+23009,Hancock County,2021,Ship and Boat Building,17,324,16809939,17362154.501
+23009,Hancock County,2021,Tourism and Recreation,391,3400.833,122516659,293373628.75
+23009,Hancock County,2021,Marine Transportation,7,38,2086332,2755019.868
+23009,Hancock County,2021,Ocean Economy,631,4436.25,171795676,395057350.737
+23013,Knox County,2021,Marine Construction,SUP,SUP,SUP,SUP
+23013,Knox County,2021,Living Resources,178,242,12839894,37927501.412
+23013,Knox County,2021,Offshore Mineral Resources,0,0,0,0
+23013,Knox County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+23013,Knox County,2021,Tourism and Recreation,211,1903,62408369,132819340.577
+23013,Knox County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+23013,Knox County,2021,Ocean Economy,413,2564.5,96631910,193903713.307
+23015,Lincoln County,2021,Marine Construction,9,33,1577047,2134860.835
+23015,Lincoln County,2021,Living Resources,113,280,10770220,25204390.174
+23015,Lincoln County,2021,Offshore Mineral Resources,0,0,0,0
+23015,Lincoln County,2021,Ship and Boat Building,14,159,8430209,8707145.882
+23015,Lincoln County,2021,Tourism and Recreation,191,1455.333,47153955,108054061.928
+23015,Lincoln County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+23015,Lincoln County,2021,Ocean Economy,332,1987.167,70355685,146734496.108
+23023,Sagadahoc County,2021,Marine Construction,SUP,SUP,SUP,SUP
+23023,Sagadahoc County,2021,Living Resources,SUP,SUP,SUP,SUP
+23023,Sagadahoc County,2021,Offshore Mineral Resources,0,0,0,0
+23023,Sagadahoc County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+23023,Sagadahoc County,2021,Tourism and Recreation,59,661.333,18826001,40638559.921
+23023,Sagadahoc County,2021,Marine Transportation,0,0,0,0
+23023,Sagadahoc County,2021,Ocean Economy,SUP,SUP,SUP,SUP
+23027,Waldo County,2021,Marine Construction,SUP,SUP,SUP,SUP
+23027,Waldo County,2021,Living Resources,SUP,SUP,SUP,SUP
+23027,Waldo County,2021,Offshore Mineral Resources,1,0,0,0
+23027,Waldo County,2021,Ship and Boat Building,5,111,5317237,5491911.084
+23027,Waldo County,2021,Tourism and Recreation,90,776.833,22852875,48450010.226
+23027,Waldo County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+23027,Waldo County,2021,Ocean Economy,115,1152.833,42013061,92047013.87
+23029,Washington County,2021,Marine Construction,0,0,0,0
+23029,Washington County,2021,Living Resources,93,333,13044535,39084064.962
+23029,Washington County,2021,Offshore Mineral Resources,1,0,0,0
+23029,Washington County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+23029,Washington County,2021,Tourism and Recreation,79,514.083,11302355,24303010.74
+23029,Washington County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+23029,Washington County,2021,Ocean Economy,185,1079.667,34141548,81002313.352
+23031,York County,2021,Marine Construction,SUP,SUP,SUP,SUP
+23031,York County,2021,Living Resources,37,332,15629014,44657336.081
+23031,York County,2021,Offshore Mineral Resources,8,40,2315666,0
+23031,York County,2021,Ship and Boat Building,6,6492,559195186,577565047.41
+23031,York County,2021,Tourism and Recreation,683,7836.583,254969688,559410945.002
+23031,York County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+23031,York County,2021,Ocean Economy,747,15133.5,856667732,1150197523.1
+25001,Barnstable County,2021,Marine Construction,16,118,10342160,16906808.502
+25001,Barnstable County,2021,Living Resources,90,358,20849081,44659706.161
+25001,Barnstable County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+25001,Barnstable County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+25001,Barnstable County,2021,Tourism and Recreation,1192,14949,564281951,1303110974.9
+25001,Barnstable County,2021,Marine Transportation,26,617,54341398,161737410.19
+25001,Barnstable County,2021,Ocean Economy,1333,16042,649814590,1526414899.8
+25005,Bristol County,2021,Marine Construction,SUP,SUP,SUP,SUP
+25005,Bristol County,2021,Living Resources,223,3196,313864717,722925083.19
+25005,Bristol County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+25005,Bristol County,2021,Ship and Boat Building,12,263,17186471,21606078.398
+25005,Bristol County,2021,Tourism and Recreation,174.772,2709.16,70149988.944,153594176.57
+25005,Bristol County,2021,Marine Transportation,34,2558,157065573,189553122.15
+25005,Bristol County,2021,Ocean Economy,458.772,8726.16,558266749.94,1087678460.3
+25007,Dukes County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+25007,Dukes County,2021,Ocean Economy,189,1281,69030124,162353839.85
+25007,Dukes County,2021,Marine Construction,SUP,SUP,SUP,SUP
+25007,Dukes County,2021,Living Resources,SUP,SUP,SUP,SUP
+25007,Dukes County,2021,Offshore Mineral Resources,0,0,0,0
+25007,Dukes County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+25007,Dukes County,2021,Tourism and Recreation,174,1281,69030124,162353839.85
+25009,Essex County,2021,Marine Construction,17,117,9635359,15751368.134
+25009,Essex County,2021,Living Resources,148,1270,100883040,212784760.43
+25009,Essex County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+25009,Essex County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+25009,Essex County,2021,Tourism and Recreation,1066.655,14429.171,417662664.14,855218332.25
+25009,Essex County,2021,Marine Transportation,32,317,21911417,26424012.498
+25009,Essex County,2021,Ocean Economy,1278.655,16133.171,550092480.14,1110178473.3
+25017,Middlesex County,2021,Marine Construction,23,189,18578529,30371182.813
+25017,Middlesex County,2021,Living Resources,26,121,8118313,17700361.114
+25017,Middlesex County,2021,Offshore Mineral Resources,14,20,1847288,2919971.759
+25017,Middlesex County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+25017,Middlesex County,2021,Tourism and Recreation,0,0,0,0
+25017,Middlesex County,2021,Marine Transportation,53,5218,560176108,1098959308.2
+25017,Middlesex County,2021,Ocean Economy,118,5548,588720238,1149950823.8
+25019,Nantucket County,2021,Marine Construction,SUP,SUP,SUP,SUP
+25019,Nantucket County,2021,Living Resources,SUP,SUP,SUP,SUP
+25019,Nantucket County,2021,Offshore Mineral Resources,0,0,0,0
+25019,Nantucket County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+25019,Nantucket County,2021,Tourism and Recreation,134,1444,86716573,197813675.24
+25019,Nantucket County,2021,Marine Transportation,0,0,0,0
+25019,Nantucket County,2021,Ocean Economy,140,1444,86716573,197813675.24
+25021,Norfolk County,2021,Marine Construction,20,364,41454010,67766792.304
+25021,Norfolk County,2021,Living Resources,17,108,3816808,7212277.717
+25021,Norfolk County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+25021,Norfolk County,2021,Ship and Boat Building,0,0,0,0
+25021,Norfolk County,2021,Tourism and Recreation,456.274,5818.904,165278323.39,324671701.31
+25021,Norfolk County,2021,Marine Transportation,45,2513,196408568,266163446.96
+25021,Norfolk County,2021,Ocean Economy,541.274,8803.904,406957709.39,665814218.29
+25023,Plymouth County,2021,Marine Construction,11,104,9126651,14919759.578
+25023,Plymouth County,2021,Living Resources,45,341,17535398,36463958.556
+25023,Plymouth County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+25023,Plymouth County,2021,Ship and Boat Building,7,48,2414139,3034949.787
+25023,Plymouth County,2021,Tourism and Recreation,600.276,9203.979,243915931.93,488091419.04
+25023,Plymouth County,2021,Marine Transportation,30,774,58240791,111982994.93
+25023,Plymouth County,2021,Ocean Economy,705.276,10470.979,331232910.93,654493081.89
+25025,Suffolk County,2021,Marine Construction,13,131,15525537,25380315.228
+25025,Suffolk County,2021,Living Resources,74,1801,129248067,271659727.95
+25025,Suffolk County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+25025,Suffolk County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+25025,Suffolk County,2021,Tourism and Recreation,963.74,14603.501,528040489.47,1136034152
+25025,Suffolk County,2021,Marine Transportation,29,525,109406144,142344920.01
+25025,Suffolk County,2021,Ocean Economy,1084.74,17060.501,782220237.47,1575419115.2
+33015,Rockingham County,2021,Marine Construction,SUP,SUP,SUP,SUP
+33015,Rockingham County,2021,Living Resources,22,171,13438813,27839668.284
+33015,Rockingham County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+33015,Rockingham County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+33015,Rockingham County,2021,Tourism and Recreation,500.92,6390.956,189478226.87,501770835.12
+33015,Rockingham County,2021,Marine Transportation,28,1546,97895003,123917742.84
+33015,Rockingham County,2021,Ocean Economy,574.92,8107.956,300812042.87,653528246.25
+33017,Strafford County,2021,Marine Construction,0,0,0,0
+33017,Strafford County,2021,Living Resources,SUP,SUP,SUP,SUP
+33017,Strafford County,2021,Offshore Mineral Resources,4,0,0,0
+33017,Strafford County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+33017,Strafford County,2021,Tourism and Recreation,0,0,0,0
+33017,Strafford County,2021,Marine Transportation,9,210,13916084,17615298.694
+33017,Strafford County,2021,Ocean Economy,19,210,13916084,17615298.694
+34001,Atlantic County,2021,Marine Construction,SUP,SUP,SUP,SUP
+34001,Atlantic County,2021,Living Resources,12,35,1448291,4003212.146
+34001,Atlantic County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34001,Atlantic County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34001,Atlantic County,2021,Tourism and Recreation,656,9543.333,290654035,633905409.05
+34001,Atlantic County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+34001,Atlantic County,2021,Ocean Economy,690,9922.083,313834559,680699131.846
+34003,Bergen County,2021,Marine Construction,9,94,13625829,23860316.233
+34003,Bergen County,2021,Living Resources,38,69,3463387,8148171.539
+34003,Bergen County,2021,Offshore Mineral Resources,8,93,7701208,13054304.56
+34003,Bergen County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34003,Bergen County,2021,Tourism and Recreation,1213,11424.333,342848770,711910056.78
+34003,Bergen County,2021,Marine Transportation,89,4547,170259151,241573033.7
+34003,Bergen County,2021,Ocean Economy,1372,16344.083,554526888,1047733816.112
+34005,Burlington County,2021,Marine Transportation,45,8599,387702181,503084091.48
+34005,Burlington County,2021,Ocean Economy,66,14879.333,1062693655,1944958572.814
+34005,Burlington County,2021,Marine Construction,SUP,SUP,SUP,SUP
+34005,Burlington County,2021,Living Resources,4,19,343822,808896.215
+34005,Burlington County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34005,Burlington County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34005,Burlington County,2021,Tourism and Recreation,0,0,0,0
+34007,Camden County,2021,Marine Construction,4,88,10297595,18032214.637
+34007,Camden County,2021,Living Resources,5,7,217499,511701.165
+34007,Camden County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34007,Camden County,2021,Ship and Boat Building,0,0,0,0
+34007,Camden County,2021,Tourism and Recreation,139,1198.25,25534173,53004022.513
+34007,Camden County,2021,Marine Transportation,37,1282,83739715,108661030.31
+34007,Camden County,2021,Ocean Economy,193,3399.833,208724271,360981714.148
+34009,Cape May County,2021,Marine Construction,17,105,5933718,10390588.926
+34009,Cape May County,2021,Living Resources,29,297,15299167,39873264.518
+34009,Cape May County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34009,Cape May County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34009,Cape May County,2021,Tourism and Recreation,1016,10499.417,330389075,742583850.112
+34009,Cape May County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+34009,Cape May County,2021,Ocean Economy,1078,11226.5,373284061,839988096.344
+34011,Cumberland County,2021,Marine Construction,SUP,SUP,SUP,SUP
+34011,Cumberland County,2021,Living Resources,13,205,9486994,22365279.115
+34011,Cumberland County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34011,Cumberland County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34011,Cumberland County,2021,Tourism and Recreation,101,1118.167,25087941,52490450.292
+34011,Cumberland County,2021,Marine Transportation,18,985,47107439,61126824.436
+34011,Cumberland County,2021,Ocean Economy,145,2539.167,97088770,185500094.572
+34013,Essex County,2021,Marine Construction,9,248,26551582,46494722.853
+34013,Essex County,2021,Living Resources,27,209,13479963,37168427.051
+34013,Essex County,2021,Offshore Mineral Resources,3,11,821596,1392685.98
+34013,Essex County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34013,Essex County,2021,Tourism and Recreation,479,3780.667,115121908,249639913.023
+34013,Essex County,2021,Marine Transportation,61,2223,245614176,350476125.18
+34013,Essex County,2021,Ocean Economy,586,6716.583,434218678,747490543.383
+34015,Gloucester County,2021,Marine Construction,11,280,25949273,45440013.946
+34015,Gloucester County,2021,Living Resources,SUP,SUP,SUP,SUP
+34015,Gloucester County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34015,Gloucester County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34015,Gloucester County,2021,Tourism and Recreation,82,1376.083,30102449,62590765.276
+34015,Gloucester County,2021,Marine Transportation,32,295,20026571,25986568.482
+34015,Gloucester County,2021,Ocean Economy,135,10086.833,382278108,535292254.361
+34017,Hudson County,2021,Marine Construction,5,79,8429608,14761165.181
+34017,Hudson County,2021,Living Resources,15,122,6868831,19895389.868
+34017,Hudson County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34017,Hudson County,2021,Ship and Boat Building,3,56,2813561,5494826.423
+34017,Hudson County,2021,Tourism and Recreation,1501,15153.583,455517928,931989928.934
+34017,Hudson County,2021,Marine Transportation,98,4348,317320431,432539781.63
+34017,Hudson County,2021,Ocean Economy,1627,19930.417,808006121,1468450781.903
+34023,Middlesex County,2021,Marine Construction,8,100,9040055,15830124.616
+34023,Middlesex County,2021,Living Resources,9,6,308518,725837.912
+34023,Middlesex County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34023,Middlesex County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34023,Middlesex County,2021,Tourism and Recreation,176,1290.417,31950503,67542527.336
+34023,Middlesex County,2021,Marine Transportation,224,25483,1242800374,1612663347.5
+34023,Middlesex County,2021,Ocean Economy,447,27224.5,1320498561,1823172880.752
+34025,Monmouth County,2021,Marine Construction,15,171,17032134,29825128.684
+34025,Monmouth County,2021,Living Resources,18,98,5011087,14289451.511
+34025,Monmouth County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34025,Monmouth County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34025,Monmouth County,2021,Tourism and Recreation,1377,17691.5,466633084,961343228.069
+34025,Monmouth County,2021,Marine Transportation,24,302,19524533,26048818.208
+34025,Monmouth County,2021,Ocean Economy,1452,18340.333,514147042,1042292879.874
+34029,Ocean County,2021,Marine Construction,25,223,14281012,25007613.294
+34029,Ocean County,2021,Living Resources,46,182,8288557,21621687.73
+34029,Ocean County,2021,Offshore Mineral Resources,9,74,7779960,29790585.229
+34029,Ocean County,2021,Ship and Boat Building,4,6,436750,852963.714
+34029,Ocean County,2021,Tourism and Recreation,1168,14120.083,377498470,795569019.535
+34029,Ocean County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+34029,Ocean County,2021,Ocean Economy,1285,14822.167,421272495,896088995.592
+34033,Salem County,2021,Marine Construction,0,0,0,0
+34033,Salem County,2021,Living Resources,SUP,SUP,SUP,SUP
+34033,Salem County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34033,Salem County,2021,Ship and Boat Building,0,0,0,0
+34033,Salem County,2021,Tourism and Recreation,60,613.583,12552337,26266096.519
+34033,Salem County,2021,Marine Transportation,8,1302,73420975,95271386.94
+34033,Salem County,2021,Ocean Economy,75,1931.5,86800502,123469289.143
+34035,Somerset County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+34035,Somerset County,2021,Ocean Economy,33,3493.833,153043590,211663713.118
+34035,Somerset County,2021,Marine Construction,5,255,19460692,34077799.246
+34035,Somerset County,2021,Living Resources,SUP,SUP,SUP,SUP
+34035,Somerset County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34035,Somerset County,2021,Ship and Boat Building,0,0,0,0
+34035,Somerset County,2021,Tourism and Recreation,0,0,0,0
+34039,Union County,2021,Marine Construction,6,454,60588207,106096574.31
+34039,Union County,2021,Living Resources,8,13,333412,784405.026
+34039,Union County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+34039,Union County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+34039,Union County,2021,Tourism and Recreation,335,3056.833,84155376,183447051.009
+34039,Union County,2021,Marine Transportation,77,3342,233549584,312695771.07
+34039,Union County,2021,Ocean Economy,434,9748.417,932568704,1441975847.744
+36001,Albany County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36001,Albany County,2021,Living Resources,SUP,SUP,SUP,SUP
+36001,Albany County,2021,Offshore Mineral Resources,5,453,38875524,105252209.75
+36001,Albany County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36001,Albany County,2021,Tourism and Recreation,0,0,0,0
+36001,Albany County,2021,Marine Transportation,26,555,27464680,35023620.572
+36001,Albany County,2021,Ocean Economy,40,1008,66340204,140275830.32
+36005,Bronx County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36005,Bronx County,2021,Living Resources,81,651,43843645,116370314.38
+36005,Bronx County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36005,Bronx County,2021,Ship and Boat Building,0,0,0,0
+36005,Bronx County,2021,Tourism and Recreation,643.08,4621.339,125056800.16,261491864.37
+36005,Bronx County,2021,Marine Transportation,22,749,32694598,41692937.806
+36005,Bronx County,2021,Ocean Economy,753.08,6021.339,201595043.16,419555116.56
+36011,Cayuga County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36011,Cayuga County,2021,Living Resources,SUP,SUP,SUP,SUP
+36011,Cayuga County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36011,Cayuga County,2021,Ship and Boat Building,0,0,0,0
+36011,Cayuga County,2021,Tourism and Recreation,8,24,961279,1657086.537
+36011,Cayuga County,2021,Marine Transportation,5,40,1815526,2315202.426
+36011,Cayuga County,2021,Ocean Economy,19,64,2776805,3972288.963
+36013,Chautauqua County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36013,Chautauqua County,2021,Living Resources,SUP,SUP,SUP,SUP
+36013,Chautauqua County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36013,Chautauqua County,2021,Ship and Boat Building,0,0,0,0
+36013,Chautauqua County,2021,Tourism and Recreation,51.102,683.1,13910194.881,29131207.05
+36013,Chautauqua County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+36013,Chautauqua County,2021,Ocean Economy,70.102,683.1,13910194.881,29131207.05
+36027,Dutchess County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36027,Dutchess County,2021,Living Resources,SUP,SUP,SUP,SUP
+36027,Dutchess County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36027,Dutchess County,2021,Ship and Boat Building,0,0,0,0
+36027,Dutchess County,2021,Tourism and Recreation,0,0,0,0
+36027,Dutchess County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+36027,Dutchess County,2021,Ocean Economy,SUP,SUP,SUP,SUP
+36029,Erie County,2021,Marine Construction,14,77,5909923,10569511.208
+36029,Erie County,2021,Living Resources,12,17,358472,815853.412
+36029,Erie County,2021,Offshore Mineral Resources,12,28,1885402,2974407.41
+36029,Erie County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36029,Erie County,2021,Tourism and Recreation,569.944,9424.194,222086566.95,486718432.52
+36029,Erie County,2021,Marine Transportation,62,4161,120667265,153877798.86
+36029,Erie County,2021,Ocean Economy,670.944,13707.194,350907628.95,654956003.41
+36045,Jefferson County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36045,Jefferson County,2021,Living Resources,0,0,0,0
+36045,Jefferson County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36045,Jefferson County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36045,Jefferson County,2021,Tourism and Recreation,68.289,565.929,15788015.98,36788053.368
+36045,Jefferson County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+36045,Jefferson County,2021,Ocean Economy,85.289,565.929,15788015.98,36788053.368
+36047,Kings County,2021,Marine Construction,14,158,15887028,28412911.727
+36047,Kings County,2021,Living Resources,155,1281,66738649,186061167.65
+36047,Kings County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36047,Kings County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36047,Kings County,2021,Tourism and Recreation,3622.134,26000.368,815963981.18,1686924307
+36047,Kings County,2021,Marine Transportation,56,2329,59730301,76277075.02
+36047,Kings County,2021,Ocean Economy,3853.134,29768.368,958319959.18,1977675461.4
+36055,Monroe County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36055,Monroe County,2021,Living Resources,5,6,75817,172553.388
+36055,Monroe County,2021,Offshore Mineral Resources,8,21,907129,2455975.43
+36055,Monroe County,2021,Ship and Boat Building,0,0,0,0
+36055,Monroe County,2021,Tourism and Recreation,268.098,4199.586,97381832.093,201421295.23
+36055,Monroe County,2021,Marine Transportation,34,2664,146287939,186549898.62
+36055,Monroe County,2021,Ocean Economy,324.098,6890.586,244652717.09,390599722.67
+36059,Nassau County,2021,Marine Construction,25,477,56166956,100450931.59
+36059,Nassau County,2021,Living Resources,71,499,25045667,66189962.802
+36059,Nassau County,2021,Offshore Mineral Resources,6,29,2454464,4160421.882
+36059,Nassau County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36059,Nassau County,2021,Tourism and Recreation,1493.982,17171.028,512351763.6,1041822728.4
+36059,Nassau County,2021,Marine Transportation,76,2823,160426329,249702792.82
+36059,Nassau County,2021,Ocean Economy,1672.982,20999.028,756445179.6,1462326837.5
+36061,New York County,2021,Marine Construction,20,586,72406448,129494202.16
+36061,New York County,2021,Living Resources,74,486,22122240,55989094.313
+36061,New York County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36061,New York County,2021,Ship and Boat Building,0,0,0,0
+36061,New York County,2021,Tourism and Recreation,8834,124315,6036836979,14991289187
+36061,New York County,2021,Marine Transportation,53,94,13092838,23874702.414
+36061,New York County,2021,Ocean Economy,8990,125481,6144458505,15200647186
+36063,Niagara County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36063,Niagara County,2021,Living Resources,0,0,0,0
+36063,Niagara County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36063,Niagara County,2021,Ship and Boat Building,0,0,0,0
+36063,Niagara County,2021,Tourism and Recreation,327.793,3785.848,85372924.16,178139659.89
+36063,Niagara County,2021,Marine Transportation,18,92,4652509,5932991.388
+36063,Niagara County,2021,Ocean Economy,349.793,3877.848,90025433.16,184072651.28
+36071,Orange County,2021,Marine Construction,6,123,8966691,16036341.087
+36071,Orange County,2021,Living Resources,12,29,1005876,2289292.794
+36071,Orange County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36071,Orange County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36071,Orange County,2021,Tourism and Recreation,0,0,0,0
+36071,Orange County,2021,Marine Transportation,24,1325,68880194,87837680.234
+36071,Orange County,2021,Ocean Economy,48,1477,78852761,106163314.11
+36073,Orleans County,2021,Marine Construction,0,0,0,0
+36073,Orleans County,2021,Living Resources,0,0,0,0
+36073,Orleans County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36073,Orleans County,2021,Ship and Boat Building,0,0,0,0
+36073,Orleans County,2021,Tourism and Recreation,0,0,0,0
+36073,Orleans County,2021,Marine Transportation,6,30,2168568,2765410.076
+36073,Orleans County,2021,Ocean Economy,8,30,2168568,2765410.076
+36075,Oswego County,2021,Marine Transportation,5,24,1557186,1985761.044
+36075,Oswego County,2021,Ocean Economy,158.823,1498.562,32435280.74,69518645.841
+36075,Oswego County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36075,Oswego County,2021,Living Resources,SUP,SUP,SUP,SUP
+36075,Oswego County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36075,Oswego County,2021,Ship and Boat Building,0,0,0,0
+36075,Oswego County,2021,Tourism and Recreation,143.823,1474.562,30878094.74,67532884.797
+36079,Putnam County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36079,Putnam County,2021,Living Resources,0,0,0,0
+36079,Putnam County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36079,Putnam County,2021,Ship and Boat Building,0,0,0,0
+36079,Putnam County,2021,Tourism and Recreation,0,0,0,0
+36079,Putnam County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+36079,Putnam County,2021,Ocean Economy,SUP,SUP,SUP,SUP
+36081,Queens County,2021,Marine Transportation,55,2335,114292172,146632670.97
+36081,Queens County,2021,Ocean Economy,1452.96,12677.482,468165202.63,893176056.73
+36081,Queens County,2021,Marine Construction,22,571,72165166,129062685.06
+36081,Queens County,2021,Living Resources,94,353,11879779,30156133.051
+36081,Queens County,2021,Offshore Mineral Resources,9,16,1944857,3296616.133
+36081,Queens County,2021,Ship and Boat Building,0,0,0,0
+36081,Queens County,2021,Tourism and Recreation,1272.96,9402.482,267883228.63,584027951.51
+36085,Richmond County,2021,Marine Construction,8,194,26134607,46740037.326
+36085,Richmond County,2021,Living Resources,18,81,4400185,11757470.286
+36085,Richmond County,2021,Offshore Mineral Resources,0,0,0,0
+36085,Richmond County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36085,Richmond County,2021,Tourism and Recreation,853,6162,167852512,366138865.18
+36085,Richmond County,2021,Marine Transportation,20,246,21955990,34063412.807
+36085,Richmond County,2021,Ocean Economy,902,6683,220343294,458699785.6
+36087,Rockland County,2021,Marine Construction,7,99,13314586,23812267.26
+36087,Rockland County,2021,Living Resources,6,29,921264,2096722.694
+36087,Rockland County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36087,Rockland County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36087,Rockland County,2021,Tourism and Recreation,0,0,0,0
+36087,Rockland County,2021,Marine Transportation,15,801,44363365,56573230.165
+36087,Rockland County,2021,Ocean Economy,31,929,58599215,82482220.119
+36089,St. Lawrence County,2021,Marine Transportation,4,112,9565288,19206819.148
+36089,St. Lawrence County,2021,Ocean Economy,8,112,9565288,19206819.148
+36089,St. Lawrence County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36089,St. Lawrence County,2021,Living Resources,0,0,0,0
+36089,St. Lawrence County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36089,St. Lawrence County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36089,St. Lawrence County,2021,Tourism and Recreation,0,0,0,0
+36103,Suffolk County,2021,Marine Construction,66,697,63770148,114048743.79
+36103,Suffolk County,2021,Living Resources,95,540,22716410,56177940.464
+36103,Suffolk County,2021,Offshore Mineral Resources,21,25,1756718,2977712.449
+36103,Suffolk County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36103,Suffolk County,2021,Tourism and Recreation,2666.858,33746.467,1060858331.8,2323808087.4
+36103,Suffolk County,2021,Marine Transportation,91,3411,330576002,505612898.31
+36103,Suffolk County,2021,Ocean Economy,2948.858,38419.467,1479677609.8,3002625382.4
+36111,Ulster County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36111,Ulster County,2021,Living Resources,SUP,SUP,SUP,SUP
+36111,Ulster County,2021,Offshore Mineral Resources,4,21,1087433,2944133.337
+36111,Ulster County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36111,Ulster County,2021,Tourism and Recreation,0,0,0,0
+36111,Ulster County,2021,Marine Transportation,11,88,5509103,7025340.662
+36111,Ulster County,2021,Ocean Economy,22,109,6596536,9969473.999
+36117,Wayne County,2021,Marine Construction,SUP,SUP,SUP,SUP
+36117,Wayne County,2021,Living Resources,SUP,SUP,SUP,SUP
+36117,Wayne County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36117,Wayne County,2021,Ship and Boat Building,0,0,0,0
+36117,Wayne County,2021,Tourism and Recreation,38.682,383.409,7493932.727,15694050.857
+36117,Wayne County,2021,Marine Transportation,12,79,4223386,5385763.417
+36117,Wayne County,2021,Ocean Economy,57.682,462.409,11717318.727,21079814.273
+36119,Westchester County,2021,Marine Transportation,29,119,12401582,15814795.674
+36119,Westchester County,2021,Ocean Economy,516.796,4818.452,186594166.51,355379097.98
+36119,Westchester County,2021,Marine Construction,14,181,20733799,37081045.036
+36119,Westchester County,2021,Living Resources,26,141,5951812,14543765.64
+36119,Westchester County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+36119,Westchester County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+36119,Westchester County,2021,Tourism and Recreation,440.796,4377.452,147506973.51,287939491.63
+42017,Bucks County,2021,Marine Construction,4,17,930860,1519408.198
+42017,Bucks County,2021,Living Resources,9,56,1318906,2971919.252
+42017,Bucks County,2021,Offshore Mineral Resources,6,35,2889642,4527420.752
+42017,Bucks County,2021,Ship and Boat Building,0,0,0,0
+42017,Bucks County,2021,Tourism and Recreation,0,0,0,0
+42017,Bucks County,2021,Marine Transportation,55,1784,102701725,126385906.75
+42017,Bucks County,2021,Ocean Economy,78,2257.5,135384837,195734171.628
+42045,Delaware County,2021,Marine Construction,SUP,SUP,SUP,SUP
+42045,Delaware County,2021,Living Resources,12,62,2856583,6436799.903
+42045,Delaware County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+42045,Delaware County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+42045,Delaware County,2021,Tourism and Recreation,112,1290.333,26624201,63404710.969
+42045,Delaware County,2021,Marine Transportation,31,492,23518500,28942132.646
+42045,Delaware County,2021,Ocean Economy,159,2068,75711081,163028382.169
+42049,Erie County,2021,Marine Construction,4,44,2494892,4072319.53
+42049,Erie County,2021,Living Resources,SUP,SUP,SUP,SUP
+42049,Erie County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+42049,Erie County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+42049,Erie County,2021,Tourism and Recreation,185,2432.25,44217017,104258882.985
+42049,Erie County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+42049,Erie County,2021,Ocean Economy,214,2836.083,65295561,138547840.666
+42101,Philadelphia County,2021,Marine Construction,SUP,SUP,SUP,SUP
+42101,Philadelphia County,2021,Living Resources,47,575,30941815,80114367.596
+42101,Philadelphia County,2021,Offshore Mineral Resources,0,0,0,0
+42101,Philadelphia County,2021,Ship and Boat Building,10,404,35482845,54636847.854
+42101,Philadelphia County,2021,Tourism and Recreation,2104,25116.75,771533165,1810600064.753
+42101,Philadelphia County,2021,Marine Transportation,52,4094,205538054,272668818.33
+42101,Philadelphia County,2021,Ocean Economy,2225,30732.583,1082829058,2276398120.114
+44001,Bristol County,2021,Marine Construction,SUP,SUP,SUP,SUP
+44001,Bristol County,2021,Living Resources,SUP,SUP,SUP,SUP
+44001,Bristol County,2021,Offshore Mineral Resources,0,0,0,0
+44001,Bristol County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+44001,Bristol County,2021,Tourism and Recreation,134,2022,60782901,131231711.911
+44001,Bristol County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+44001,Bristol County,2021,Ocean Economy,160,2253.5,72964292,152474577.577
+44003,Kent County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+44003,Kent County,2021,Ocean Economy,376,6314.667,165319175,356640219.244
+44003,Kent County,2021,Marine Construction,SUP,SUP,SUP,SUP
+44003,Kent County,2021,Living Resources,9,34,4020290,10964401.513
+44003,Kent County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+44003,Kent County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+44003,Kent County,2021,Tourism and Recreation,356,6025.583,147937639,325281222.068
+44005,Newport County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+44005,Newport County,2021,Ocean Economy,461,7708.417,391009935,860076852.744
+44005,Newport County,2021,Marine Construction,4,19,5609704,9502773.205
+44005,Newport County,2021,Living Resources,18,40,4173627,10337522.986
+44005,Newport County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+44005,Newport County,2021,Ship and Boat Building,10,5,653634,1152392.863
+44005,Newport County,2021,Tourism and Recreation,416,6149.667,209905272,543039203.446
+44007,Providence County,2021,Marine Construction,5,63,6263623,10610504.371
+44007,Providence County,2021,Living Resources,24,88,6654998,17635351.327
+44007,Providence County,2021,Offshore Mineral Resources,SUP,SUP,SUP,SUP
+44007,Providence County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+44007,Providence County,2021,Tourism and Recreation,858,12509.417,336012431,741563955.606
+44007,Providence County,2021,Marine Transportation,21,772,39662327,48945909.309
+44007,Providence County,2021,Ocean Economy,916,13775.833,408944355,871972570.306
+44009,Washington County,2021,Marine Construction,11,56,4576255,7752122.642
+44009,Washington County,2021,Living Resources,43,291,18878838,23519710.218
+44009,Washington County,2021,Offshore Mineral Resources,6,52,3052042,17478773.141
+44009,Washington County,2021,Ship and Boat Building,SUP,SUP,SUP,SUP
+44009,Washington County,2021,Tourism and Recreation,431,5456.333,167883624,409406555.735
+44009,Washington County,2021,Marine Transportation,SUP,SUP,SUP,SUP
+44009,Washington County,2021,Ocean Economy,512,11118.333,524609349,1080598275.81
